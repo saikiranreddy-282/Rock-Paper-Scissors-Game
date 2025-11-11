@@ -1,6 +1,6 @@
 # 🎮 Rock Paper Scissors Game  
 
-**Live Demo:** [Click here to view](https://saikiranreddy-282.github.io/rock-paper-scissors/)  
+**Live Demo:** [Click here to view](https://saikiranreddy-282.github.io/Rock-Paper-Scissors-Game/)  
 
 ---
 
